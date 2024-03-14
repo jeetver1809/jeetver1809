@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jeetver1809
+- 👋 Hi, I’m jeet
 - 👀 I’m interested in web develop and programming
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on any bigger oportunity
 - 📫 How to reach me jeetverma1809@gmail.com
-- 😄 Pronouns: he/hin
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: good in chess
 
 <!---
