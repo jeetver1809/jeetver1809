@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jeet
-- 👀 I’m interested in web develop and programming
+- 👀 I’m interested in web development and programming
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on any bigger oportunity
 - 📫 How to reach me jeetverma1809@gmail.com
