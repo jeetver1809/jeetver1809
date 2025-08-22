@@ -1,52 +1,58 @@
 # 👋 Hi, I'm Jeet!  
 
-💻 CS Undergrad | MERN Stack Learner | DSA Enthusiast  
-🚀 Passionate about Web Development & Problem Solving  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+%F0%9F%91%8B+I'm+Jeet;CS+Undergrad+%7C+Web+Developer;DSA+Enthusiast+%7C+MERN+Stack+Learner;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ---
 
-## 🛠️ Tech Stack  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Profile Views](https://komarev.com/ghpvc/?username=jeetver1809&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,react,nodejs,mongodb,express,git,github,html,css,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetver1809&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetver1809&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetver1809&layout=compact&theme=radical" height="180"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetver1809&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeetver1809&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeetver1809&theme=tokyonight)  
+---
+
+## 📈 Contribution Graph  
+[![Jeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeetver1809&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/jeetver1809/jeetver1809/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🚀 Featured Projects  
-
-### 🔹 [Finance Tracker App](https://github.com/jeetver1809/finance-tracker)  
-💰 A MERN stack application to track personal expenses with authentication and MongoDB Atlas integration.  
-
-### 🔹 [AutoTimeTable](https://github.com/jeetver1809/AutoTimeTable)  
-📅 Dynamic college timetable generator that ensures conflict-free schedules.  
-
-### 🔹 [QR Generator](https://github.com/jeetver1809/qr-generator)  
-🔗 Generates QR codes instantly from any URL.  
-
-*(Check my pinned repos for more projects 👇)*  
+- **[Finance Tracker App](https://github.com/jeetver1809/finance-tracker)** 💰 Track expenses using MERN stack.  
+- **[AutoTimeTable](https://github.com/jeetver1809/AutoTimeTable)** 📅 Smart timetable generator.  
+- **[QR Generator](https://github.com/jeetver1809/qr-generator)** 🔗 Instant QR code creator.  
 
 ---
 
 ## 🎯 Fun Facts  
-- ♟️ Strong chess player (strategy is my second language)  
+- ♟️ Strong chess player  
 - 📺 Anime + Tech Enthusiast  
 - 🌱 Currently exploring advanced DSA + full-stack projects  
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeetver1809)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeetverma1809@gmail.com)  
+<p align="center">
+<a href="https://www.linkedin.com/in/jeetver1809/"><img src="https://img.shields.io/badge/-Jeet%20Verma-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jeetverma1809@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
