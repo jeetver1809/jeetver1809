@@ -18,7 +18,7 @@
       <br />
       <p>🎓 <b>4th-Year Computer Science Student</b> passionate about engineering premium web applications and solving complex algorithmic challenges.</p>
       <p>💻 Currently crafting full-stack applications with the <b>MERN Stack</b> and sharpening my core programming skills in <b>Java</b>.</p>
-      <p>📈 Goal-driven developer working hard toward cracking elite <b>software engineering internships by 2026</b>.</p>
+      
     </td>
     <td width="45%" align="center">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBkdzVrbnZ1b244cnE5cWY1bDRnejlxOG4yZWx3M2tmdHhxdGZteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="220px" alt="Coding GIF" />
