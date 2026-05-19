@@ -1,4 +1,92 @@
-<h1 align="center">Hi 👋, I'm Jeet Verma</h1>
+![banner](./bannergithub.svg)
+
+<br>
+
+> *Building things that work — fast, deployed, and real.*
+> CS student who ships instead of just learning.
+
+Currently grinding **Striver's A2Z DSA sheet in Java** while shipping full-stack MERN projects. Explored quantum computing with Qiskit. Integrated LLMs before it was the default thing to do. Targeting competitive internships in **2026**.
+
+<br>
+
+---
+
+### `02 /` Stack
+
+**Languages** &nbsp;→&nbsp; `Java` `JavaScript` `Python` `C` `HTML/CSS`
+
+**Frameworks** &nbsp;→&nbsp; `React` `Node.js` `Express` `React Native` `FastAPI` `Vite`
+
+**Databases & Cloud** &nbsp;→&nbsp; `MongoDB` `Firebase` `SQL` `Supabase` `Vercel` `Render` `GCP`
+
+**AI / ML** &nbsp;→&nbsp; `Qiskit` `OpenAI` `Gemini` `Groq`
+
+---
+
+### `03 /` Projects
+
+**[P·01] &nbsp; RenQ — Quantum Drug Discovery** &nbsp;·&nbsp; [![repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeetver1809/RenQ)
+
+> Hybrid quantum-classical ML platform for Alzheimer's BACE-1 inhibition. 9,000+ molecules via RDKit. 40% throughput boost via multithreading.
+
+![](https://img.shields.io/badge/86.4%25_VQC_accuracy-C8381A?style=flat-square&labelColor=0A0A0A) &nbsp; `Python` `Qiskit` `FastAPI` `RDKit`
+
+---
+
+**[P·02] &nbsp; Finlogy — Finance Tracker** &nbsp;·&nbsp; [![live](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://finlogy2-frontend.onrender.com/dashboard)
+
+> Full-stack finance app. 1,000+ monthly transactions. Gemini AI summaries. 30% faster APIs via MongoDB indexing. 150+ peak users.
+
+![](https://img.shields.io/badge/150%2B_users-C8381A?style=flat-square&labelColor=0A0A0A) &nbsp; `MERN` `OAuth` `MongoDB Atlas` `Gemini AI`
+
+---
+
+**[P·03] &nbsp; StudyStreak — Mobile App** &nbsp;·&nbsp; [![repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeetver1809/StudyStreak)
+
+> Cross-platform streak-based productivity app. Firebase real-time sync, push notifications, dual auth. 150+ users.
+
+![](https://img.shields.io/badge/Cross--platform-C8381A?style=flat-square&labelColor=0A0A0A) &nbsp; `React Native` `Expo` `Firebase`
+
+---
+
+**[P·04] &nbsp; AutoTimeTable — Timetable Builder** &nbsp;·&nbsp; [![repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeetver1809/AutoTimeTable)
+
+> Conflict-free college timetable generator. Smart scheduling logic. Designed for students, built by one.
+
+![](https://img.shields.io/badge/Conflict_detection-0A0A0A?style=flat-square) &nbsp; `React` `Vite` `JavaScript`
+
+---
+
+### `04 /` Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeetver1809&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&title_color=c8381a&icon_color=c8381a&bg_color=f5f0e8&text_color=0a0a0a)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetver1809&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&title_color=c8381a&bg_color=f5f0e8&text_color=0a0a0a)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeetver1809&theme=gruvbox&hide_border=true&ring=c8381a&fire=c8381a&currStreakLabel=c8381a&background=f5f0e8&dates=7a7265&sideLabels=0a0a0a&currStreakNum=0a0a0a)
+
+</div>
+
+---
+
+### `05 /` Currently building
+
+- ◉ &nbsp;**Striver A2Z DSA** — Arrays, Sliding Window, Kadane's
+- ◉ &nbsp;**Sync music player** — real-time listening with friends
+- ◉ &nbsp;**System Design** — depth before internship season
+- ◉ &nbsp;**2026 internships** — full-stack / backend roles
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F5F0E8)](https://jeetverma-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeetverma18/)
+[![Gmail](https://img.shields.io/badge/Gmail-C8381A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeetverma1809@gmail.com)
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=jeetver1809&style=flat-square&color=c8381a&label=views" />
+</div><h1 align="center">Hi 👋, I'm Jeet Verma</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Computer+Science+Student;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%93%88+DSA+Enthusiast;%E2%9C%A8+Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
