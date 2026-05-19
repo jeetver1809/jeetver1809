@@ -88,3 +88,15 @@
   <a href="Your_LinkedIn_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="Your_Portfolio_URL"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeetver1809/jeetver1809/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetver1809/jeetver1809/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeetver1809/jeetver1809/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
